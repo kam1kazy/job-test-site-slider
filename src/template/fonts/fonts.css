@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('./gilroy/Gilroy-ExtraBold.eot');
+    src: local('Gilroy ExtraBold'), local('Gilroy-ExtraBold'),
+    url('./gilroy/Gilroy-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('./gilroy/Gilroy-ExtraBold.woff') format('woff'),
+    url('./gilroy/Gilroy-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('./gilroy/Gilroy-Light.eot');
+    src: local('Gilroy Light'), local('Gilroy-Light'),
+    url('./gilroy/Gilroy-Light.eot?#iefix') format('embedded-opentype'),
+    url('./gilroy/Gilroy-Light.woff') format('woff'),
+    url('./gilroy/Gilroy-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('./gilroy/Gilroy-Regular.eot');
+    src: local('Gilroy Regular'), local('Gilroy-Regular'),
+    url('./gilroy/Gilroy-Regular.eot?#iefix') format('embedded-opentype'),
+    url('./gilroy/Gilroy-Regular.woff') format('woff'),
+    url('./gilroy/Gilroy-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Din Pro';
+    src: url('./dinpro/DINPro.eot');
+    src: local('gilroy Regular'), local('Gilroy-Regular'),
+    url('./dinpro/DINPro.eot?#iefix') format('embedded-opentype'),
+    url('./dinpro/DINPro.woff') format('woff'),
+    url('./dinpro/DINPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

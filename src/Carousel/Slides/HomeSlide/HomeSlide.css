@@ -1,0 +1,64 @@
+.item-1 {
+    background-image: url('../../../template/images/backgorund-1.jpg');
+}
+h1 {
+    font-size: 218px;
+    line-height: 234px;
+    font-weight: 100;
+    text-transform: uppercase;
+    margin-top: 35px;
+}
+.subtitle-text {
+    font-size: 54px;
+    text-transform: uppercase;
+}
+.go-to-next-slide {
+    background-image: url('../../../template/images/pink-button.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    width: 575px;
+    height: 160px;
+
+    position: absolute;
+    right: 90px;
+    bottom: 30px;
+    padding-left: 80px;
+
+    color: #171717;
+    font-size: 50px;
+    line-height: 160px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.particle {
+    position: absolute;
+}
+.particle.particle-6 {
+    top: 150px;
+    left: 0;
+}
+.particle.particle-5 {
+    top: 300px;
+    right: -90px;
+}
+.particle.particle-4 {
+    right: 540px;
+    bottom: 0;
+}
+.particle.particle-3 {
+    top: 100px;
+    right: 480px;
+}
+.particle.particle-2 {
+    top: 430px;
+    right: 80px;
+}
+.particle.particle-1 {
+    bottom: 320px;
+    left: 50px;
+}
+
+
